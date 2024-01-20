@@ -1,0 +1,17 @@
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\bin\Debug\net6.0-windows\FunPro.CW2.19248.exe
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\bin\Debug\net6.0-windows\FunPro.CW2.19248.deps.json
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\bin\Debug\net6.0-windows\FunPro.CW2.19248.runtimeconfig.json
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\bin\Debug\net6.0-windows\FunPro.CW2.19248.dll
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\bin\Debug\net6.0-windows\FunPro.CW2.19248.pdb
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\obj\Debug\net6.0-windows\FunPro.CW2.19248.csproj.AssemblyReference.cache
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\obj\Debug\net6.0-windows\FunPro.CW2._19248.Form1.resources
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\obj\Debug\net6.0-windows\FunPro.CW2.19248.csproj.GenerateResource.cache
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\obj\Debug\net6.0-windows\FunPro.CW2.19248.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\obj\Debug\net6.0-windows\FunPro.CW2.19248.AssemblyInfoInputs.cache
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\obj\Debug\net6.0-windows\FunPro.CW2.19248.AssemblyInfo.cs
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\obj\Debug\net6.0-windows\FunPro.CW2.19248.csproj.CoreCompileInputs.cache
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\obj\Debug\net6.0-windows\FunPro.CW2.19248.dll
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\obj\Debug\net6.0-windows\refint\FunPro.CW2.19248.dll
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\obj\Debug\net6.0-windows\FunPro.CW2.19248.pdb
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\obj\Debug\net6.0-windows\FunPro.CW2.19248.genruntimeconfig.cache
+E:\Users\00019248\source\repos\FunPro.CW2.19248\FunPro.CW2.19248\obj\Debug\net6.0-windows\ref\FunPro.CW2.19248.dll
