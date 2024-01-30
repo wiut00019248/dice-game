@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EPvu9uvUiThdbbDzUkVrrvTbWiLTtJFgCqHy/xxsfGbgBD8IbgverfbjllLej/MvGr7Q/6qFRHZyV86txY8KYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Пользователь\\Desktop\\dice-game\\FunPro.CW2.19248.DAL\\FunPro.CW2.19248.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Пользователь\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}
