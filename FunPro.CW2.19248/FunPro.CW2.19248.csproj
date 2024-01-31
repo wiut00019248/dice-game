@@ -10,6 +10,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\FunPro.CW2.19248.DAL\FunPro.CW2.19248.DAL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="DiceWars.db">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

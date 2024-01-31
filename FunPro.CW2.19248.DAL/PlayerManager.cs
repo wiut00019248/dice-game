@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Data.SQLite;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -33,9 +34,9 @@ namespace FunPro.CW2._19248.DAL
                 }
             }
         };
-        public void Update(Player player);
-        public void Delete(int id);
-        public List<Player> GetAll();
+        public void Update(Player player) { }
+        public void Delete(int id) { }
+        public List<Player> GetAll() { }
 
         // TODO: Deleting player records, sort by name, filter by score
         // TODO: Import System.Data and System.Data.SQLite
